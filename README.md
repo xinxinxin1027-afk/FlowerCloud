@@ -24,6 +24,12 @@ FlowerCloud（花云）机场集成国内多家运营商网络，基于 BGP 智�
 - 不包括 **AIR / 企业套餐**  
 - 属于双11/黑五专场活动（以当期公告为准）
 
+## 截图
+<img width="1024" height="619" alt="image" src="https://github.com/user-attachments/assets/0571a1ac-ca7c-448f-a92f-661374ac1131" />
+<img width="1024" height="529" alt="image" src="https://github.com/user-attachments/assets/883f152a-3f86-4dfe-9ad9-02614aef0e9a" />
+<img width="1024" height="716" alt="image" src="https://github.com/user-attachments/assets/d82895ec-ea11-4c90-b972-26b25f48a913" />
+
+
 # 特色  
 - 国际专线传输网络  
 - 多运营商优化接入  
@@ -42,5 +48,8 @@ FlowerCloud（花云）机场集成国内多家运营商网络，基于 BGP 智�
 
 # 一次性购买  
 - **Global Acceleration Air**：￥128 / 年（每月 20G 流量）
+
+## 对新手友好吗？
+非常友好。花云的后台对各种主流客户端（Clash, Shadowrocket, Surge等）的支持都非常好，基本都是一键复制订阅链接，然后粘贴到你的App里就行，全程不到一分钟。
 
 > 官网地址：**[点击直达](https://api-flowercloud.com/aff.php?aff=14928)**
