@@ -43,4 +43,4 @@ FlowerCloud（花云）机场集成国内多家运营商网络，基于 BGP 智�
 # 一次性购买  
 - **Global Acceleration Air**：￥128 / 年（每月 20G 流量）
 
-> 官网地址：**[https://api-flowercloud.com/aff.php?aff=14928](https://api-flowercloud.com/aff.php?aff=14928)**
+> 官网地址：**[点击直达](https://api-flowercloud.com/aff.php?aff=14928)**
